@@ -13,5 +13,9 @@ Output5
 ![op5](https://user-images.githubusercontent.com/83118372/141958771-c7c1e26f-acfd-4bcb-b1ef-40e901250e06.png)
 Output6
 ![op6](https://user-images.githubusercontent.com/83118372/141958828-ae6f6b90-b1db-4fa5-9087-6c66693411c4.png)
+Mobile view
+![mobile view](https://user-images.githubusercontent.com/83118372/141959057-3b60ee5b-047e-45f5-b3d0-8fff51f8166a.png)
+
+
 
 
